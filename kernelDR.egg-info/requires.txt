@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+2l-VKOGA@ git+https://gitlab.mathematik.uni-stuttgart.de/pub/ians-anm/2l-vkoga@v0.1.2
+torch
+tikzplotlib

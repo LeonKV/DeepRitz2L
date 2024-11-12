@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+kernelDR.egg-info/PKG-INFO
+kernelDR.egg-info/SOURCES.txt
+kernelDR.egg-info/dependency_links.txt
+kernelDR.egg-info/requires.txt
+kernelDR.egg-info/top_level.txt

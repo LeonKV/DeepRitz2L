@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: kernelDR
+Version: 0.1.0
+Summary: Python implementation of the deep Ritz method using kernel approximations
+Home-page: UNKNOWN
+Author: Tizian Wenzel, Hendrik Kleikamp
+Author-email: tizian.wenzel@uni-hamburg.de, hendrik.kleikamp@uni-muenster.de
+Maintainer: Tizian Wenzel
+Maintainer-email: tizian.wenzel@uni-hamburg.de
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
